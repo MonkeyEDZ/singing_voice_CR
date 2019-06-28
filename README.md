@@ -1,13 +1,12 @@
 # singing_voice_CR
-Singing Voice Chord Recognition Algorithm
+Singing Voice Chord Recognition Algorithm - Developed in Matlab for my Sound Engineering Thesis at UNTREF, Argentina
 
-Developed in Matlab for my Sound Engineering Thesis at UNTREF, Argentina
 
-It is especially directed to analyze formants of Argentinian and Uruguay's singers.
+It is especially directed to analyze formants of Argentinian and Uruguay's singers. The core of the analysis is based on a modification and expansion of the Chroma Toolbox. 
 
 To use, simply load SV_CR GUI.
 
-The core of the analysis is based on a modification and expansion of the Chroma Toolbox. 
+
 
 For any comments or question please send an email to zanardi.esteban@gmail.com
 
